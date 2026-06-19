@@ -1,0 +1,8 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+AAPL | Quantity: 5 | Value: $900
+GOOGL | Quantity: 5 | Value: $750
+
+Total Investment Value: $1650
+Top Investment Stock: AAPL
